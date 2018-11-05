@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A3_PhD18010</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="back">Back to Questions</string>
+    <string name="submit">SUBMIT</string>
+</resources>
